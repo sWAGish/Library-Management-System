@@ -7,7 +7,7 @@ A simple web-based Library Management System built using HTML, CSS, PHP, and MyS
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3
-- **Backend**: PHP 7+
+- **Backend**: PHP 7+, JavaScript
 - **Database**: MySQL
 - **Tools**: XAMPP / WAMP / LAMP for local development
 
